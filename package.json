@@ -1,0 +1,9 @@
+{
+    "author": "Akili Sosa",
+    "name": "censorify",
+    "version": "0.1.2",
+    "description": "Censorors words out of text",
+    "main": "censortext",
+    "dependencies": {},
+    "engines":{"node": "*"}
+}

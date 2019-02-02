@@ -1,0 +1,1 @@
+omgs my first little npm registry with some new old book. 
